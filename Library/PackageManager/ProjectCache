@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638198392842869312
-    m_Hash: 3443570580
+      ticks: 638199127777973217
+    m_Hash: 3806551279
   m_LockFileStatus:
     m_FilePath: D:/GitHubRepos/Altar Diorama/AltarEnvironment/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638198392842979308
-    m_Hash: 405351248
+      ticks: 638199127777983218
+    m_Hash: 870935397
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -4079,6 +4079,7 @@ m_PackageAssets:
         - 4.2.1
         - 5.0.0-pre.1
         - 5.0.0
+        - 5.1.0-pre.1
         compatible:
         - 2.0.0-preview
         - 2.0.0-preview.4
@@ -4102,6 +4103,7 @@ m_PackageAssets:
         - 4.2.1
         - 5.0.0-pre.1
         - 5.0.0
+        - 5.1.0-pre.1
         verified: 
       dependencies: []
       resolvedDependencies: []
