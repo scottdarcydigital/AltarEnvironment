@@ -40365,7 +40365,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: eb20d469e24057647ab3bf110c9575d8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.05
+      value: 3.02
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: eb20d469e24057647ab3bf110c9575d8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -40403,6 +40403,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5c2111b669e07db43ac03f3bcf9a04bb, type: 2}
+    - target: {fileID: -2034528396986508710, guid: eb20d469e24057647ab3bf110c9575d8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.71
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: eb20d469e24057647ab3bf110c9575d8, type: 3}
       propertyPath: m_Name
       value: Ornate Table FBX
@@ -76778,7 +76782,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.75347275, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 30000
   m_Range: 10
   m_SpotAngle: 30
