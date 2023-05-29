@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 609, y: 392}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 55
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 56
+  controlID: 26
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -513,10 +513,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0e8a0000
+      scrollPos: {x: 0, y: 791}
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2ac6ffff4efbffff6e6100005e640000286f0000e2810000
+      m_ExpandedIDs: 3049ffff3449ffff3c7cffff407cffff4efbffff6a660000746900000c6d0000b66e0000286f0000ba7b0000a87e00009281000078860000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -532,7 +532,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 7}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -651,9 +651,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.855842, y: 4.648759, z: 3.7159083}
+    m_Target: {x: 2.3197153, y: 7.942742, z: 2.3547692}
     speed: 2
-    m_Value: {x: -1.855842, y: 4.648759, z: 3.7159083}
+    m_Value: {x: 2.3197153, y: 7.942742, z: 2.3547692}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -700,13 +700,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.055235263, y: 0.72966135, z: -0.05914349, w: 0.6792961}
+    m_Target: {x: 0.03073607, y: 0.91230667, z: 0.06999372, w: -0.40286005}
     speed: 2
-    m_Value: {x: 0.054957632, y: 0.7325651, z: -0.059379645, w: 0.6758713}
+    m_Value: {x: 0.030834189, y: 0.91149926, z: 0.069932036, w: -0.40413845}
   m_Size:
-    m_Target: 0.92896837
+    m_Target: 3.1466856
     speed: 2
-    m_Value: 0.92896837
+    m_Value: 3.1466897
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -757,7 +757,7 @@ MonoBehaviour:
     height: 330
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: small mono
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -769,26 +769,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Substance_Exports/Big_mono_3/materials
-    - Assets/Substance_Exports/Big_mono_2/materials
-    - Assets/Substance_Exports/Big_mono_1/materials
+    - Assets/Materials/Placeholder Materials
     m_Globs: []
-    m_OriginalText: small mono
+    m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Substance_Exports/Big_mono_3/materials
-  - Assets/Substance_Exports/Big_mono_2/materials
-  - Assets/Substance_Exports/Big_mono_1/materials
+  - Assets/Materials/Placeholder Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\GitHubRepos\Altar Diorama\AltarEnvironment
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 142}
-    m_SelectedIDs: 7a36010048360100aec80000
-    m_LastClickedID: 51374
-    m_ExpandedIDs: 00000000f2940000f4940000f6940000f8940000b4950000b0c800004a3601007c360100
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 8e950000
+    m_LastClickedID: 38286
+    m_ExpandedIDs: 00000000f6940000f8940000fa940000fc940000fe9400000095000002950000049500000c960000dc030100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -816,7 +812,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f2940000f4940000f6940000f8940000
+    m_ExpandedIDs: 00000000f6940000f8940000fa940000fc940000fe940000009500000295000004950000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -900,7 +896,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: -269
+    m_CachedPref: 393
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
