@@ -15,11 +15,11 @@ D:/GitHubRepos/Altar Diorama/AltarEnvironment
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65091
+49638
 Successfully changed project path to: D:/GitHubRepos/Altar Diorama/AltarEnvironment
 D:/GitHubRepos/Altar Diorama/AltarEnvironment
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 408.67 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 343.34 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.21f1 (a38c86f6690f)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'D:/Program Files/2020.3.21f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005601 seconds.
+Registered in 0.004772 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 157.95 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 141.00 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.970 seconds
+- Completed reload, in  3.046 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3970ms)
-		BeginReloadAssembly (157ms)
+	ReloadAssembly (3047ms)
+		BeginReloadAssembly (131ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (3ms)
-		EndReloadAssembly (935ms)
-			LoadAssemblies (148ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (823ms)
+			LoadAssemblies (125ms)
 			RebuildTransferFunctionScriptingTraits (1ms)
-			SetupTypeCache (289ms)
+			SetupTypeCache (254ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (63ms)
-			SetupLoadedEditorAssemblies (406ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (361ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (158ms)
-				BeforeProcessingInitializeOnLoad (23ms)
-				ProcessInitializeOnLoadAttributes (162ms)
-				ProcessInitializeOnLoadMethodAttributes (55ms)
+				RefreshPlugins (141ms)
+				BeforeProcessingInitializeOnLoad (22ms)
+				ProcessInitializeOnLoadAttributes (141ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
 				AfterProcessingInitializeOnLoad (0ms)
-				EditorAssembliesLoaded (1ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.024219 seconds.
+Registered in 0.020886 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 152.98 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 187.76 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.817 seconds
+- Completed reload, in  3.342 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2820ms)
-		BeginReloadAssembly (234ms)
+	ReloadAssembly (3344ms)
+		BeginReloadAssembly (250ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (2487ms)
-			LoadAssemblies (243ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (2997ms)
+			LoadAssemblies (246ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (641ms)
+			SetupTypeCache (736ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (155ms)
-			SetupLoadedEditorAssemblies (1256ms)
+			RebuildScriptCaches (197ms)
+			SetupLoadedEditorAssemblies (1558ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (153ms)
-				BeforeProcessingInitializeOnLoad (154ms)
-				ProcessInitializeOnLoadAttributes (528ms)
-				ProcessInitializeOnLoadMethodAttributes (407ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				RefreshPlugins (188ms)
+				BeforeProcessingInitializeOnLoad (191ms)
+				ProcessInitializeOnLoadAttributes (656ms)
+				ProcessInitializeOnLoadMethodAttributes (505ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4420 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 202.3 MB.
 System memory in use after: 202.5 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 4870.
-Total: 7.924600 ms (FindLiveObjects: 0.435200 ms CreateObjectMapping: 0.228600 ms MarkObjects: 6.857700 ms  DeleteObjects: 0.400900 ms)
+Total: 8.935300 ms (FindLiveObjects: 0.498100 ms CreateObjectMapping: 0.268400 ms MarkObjects: 7.778100 ms  DeleteObjects: 0.388300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,137 +131,80 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbab15916f8d0a8361b908bf88a385e') in 0.838596 seconds 
-  Import took 1.177776 seconds .
+  path: Assets/Substance_Exports
+  artifactKey: Guid(1ce58c196786af249a3433ea5fadc78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports using Guid(1ce58c196786af249a3433ea5fadc78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebdc190163098c4b912a68bb08eedc82') in 0.019709 seconds 
+  Import took 0.030238 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.530564 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f210cb568a93c13c2eb76f2b0779b602') in 0.067529 seconds 
-  Import took 0.084255 seconds .
+  Time since last request: 0.000290 seconds.
+  path: Assets/Substance_Exports/Bookcase
+  artifactKey: Guid(1932528d85bcbe04084a74e21d1b4c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Bookcase using Guid(1932528d85bcbe04084a74e21d1b4c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf2a9e9ae9ff9d8b581c98613d9f7cb') in 0.013288 seconds 
+  Import took 0.023481 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.106609 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2fbcdbb70305c3535f1742c5d5a2e7') in 0.076306 seconds 
-  Import took 0.090199 seconds .
+  Time since last request: 1629.048845 seconds.
+  path: Assets/Substance_Exports/Books/Books.fbx
+  artifactKey: Guid(11f04dc7859d786449a702cae9d3104a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/Books.fbx using Guid(11f04dc7859d786449a702cae9d3104a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26947cf98b001eef74262ec9e5e2bf5e') in 2.613037 seconds 
+  Import took 3.352284 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.649139 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41c92c88c8f7dc02e94415752f615e9') in 0.145406 seconds 
-  Import took 0.161839 seconds .
+  Time since last request: 0.826966 seconds.
+  path: Assets/Substance_Exports/Books/Books.fbx
+  artifactKey: Guid(11f04dc7859d786449a702cae9d3104a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/Books.fbx using Guid(11f04dc7859d786449a702cae9d3104a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5939289a6e751df257d5b24a4ebb09a') in 0.259762 seconds 
+  Import took 0.272479 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.939991 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b924f40be2dc2c0db45d24c05aa54ca') in 0.129081 seconds 
-  Import took 0.164413 seconds .
+  Time since last request: 12.499574 seconds.
+  path: Assets/Substance_Exports/Books/materials
+  artifactKey: Guid(07a7d1eec9a2c3e4bac5bf38d1582a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials using Guid(07a7d1eec9a2c3e4bac5bf38d1582a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b28cbaf056d4137bb5d2d77fa93d4a') in 0.013486 seconds 
+  Import took 0.028527 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.304001 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a4166c2148974e3ccc64e7b260968a') in 0.138229 seconds 
-  Import took 0.155442 seconds .
+  Time since last request: 2.912772 seconds.
+  path: Assets/Substance_Exports/Books/materials/Books_Book2_BaseMap.png
+  artifactKey: Guid(651dea480d3d96a4195c8df5547800dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials/Books_Book2_BaseMap.png using Guid(651dea480d3d96a4195c8df5547800dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e165daf23465198f1da13658dda56190') in 0.126065 seconds 
+  Import took 0.136205 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.138146 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_Normal.png
-  artifactKey: Guid(4430ca4bdb173d44b95e3fcadc2aab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_Normal.png using Guid(4430ca4bdb173d44b95e3fcadc2aab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d9b0b62d169253cffa965da04a487e') in 0.042889 seconds 
-  Import took 0.057545 seconds .
+  Time since last request: 2.202750 seconds.
+  path: Assets/Substance_Exports/Books/materials/Books_Book2_Normal.png
+  artifactKey: Guid(31191057b3d4e1140b316dece95894ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials/Books_Book2_Normal.png using Guid(31191057b3d4e1140b316dece95894ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe54c95f045b6b4c49d4ba1999e3507') in 0.034945 seconds 
+  Import took 0.044316 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.132270 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_Normal.png
-  artifactKey: Guid(4430ca4bdb173d44b95e3fcadc2aab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_Normal.png using Guid(4430ca4bdb173d44b95e3fcadc2aab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f3a83dab0c3efd2eb44e3775ec376e') in 0.126811 seconds 
-  Import took 0.146272 seconds .
+  Time since last request: 12.436463 seconds.
+  path: Assets/Substance_Exports/Books/materials/Books_lambert2_BaseMap.png
+  artifactKey: Guid(a49a077f58c4711499dbe8ed1b2a9207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials/Books_lambert2_BaseMap.png using Guid(a49a077f58c4711499dbe8ed1b2a9207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a71d53c1098073022f2e450e59c4a30') in 0.020875 seconds 
+  Import took 0.031214 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.614534 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_MaskMap.png
-  artifactKey: Guid(066aa56d94d020043a5201dc6c0d99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_MaskMap.png using Guid(066aa56d94d020043a5201dc6c0d99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911a8e60d48975405fbe90ce9194e196') in 0.052811 seconds 
-  Import took 0.065029 seconds .
+  Time since last request: 5.855949 seconds.
+  path: Assets/Substance_Exports/Books/materials/Books_Book1_BaseMap.png
+  artifactKey: Guid(a49a077f58c4711499dbe8ed1b2a9207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials/Books_Book1_BaseMap.png using Guid(a49a077f58c4711499dbe8ed1b2a9207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2060700b69f9729bd1853ed683d6847e') in 0.021007 seconds 
+  Import took 0.032905 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.995777 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_MaskMap.png
-  artifactKey: Guid(066aa56d94d020043a5201dc6c0d99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_MaskMap.png using Guid(066aa56d94d020043a5201dc6c0d99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ae6c59e870e45e411755050cbee154') in 0.100862 seconds 
-  Import took 0.120380 seconds .
+  Time since last request: 1.917988 seconds.
+  path: Assets/Substance_Exports/Books/materials/Books_lambert2_MaskMap.png
+  artifactKey: Guid(92352b24a0baf7f42b852d757bc0448c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Substance_Exports/Books/materials/Books_lambert2_MaskMap.png using Guid(92352b24a0baf7f42b852d757bc0448c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b331366836d2b83dae05d2c6313b8323') in 0.035682 seconds 
+  Import took 0.047777 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 915.063868 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c36650ef4e8bec9e99bcca1b692ac5b') in 0.816886 seconds 
-  Import took 1.273438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 89.755492 seconds.
-  path: Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png
-  artifactKey: Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/MainFloor/materials/MainFloor_lambert1_BaseMap.png using Guid(382495f25a6ee33428b781cd665de555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707807771ab8f7f4dabce9e97d35f669') in 1.376398 seconds 
-  Import took 1.590137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 406.670906 seconds.
-  path: Assets/Maya_Models/BookCase.mb
-  artifactKey: Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maya_Models/BookCase.mb using Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ac45c0e0c34970cf127e160e0a1c00') in 5.970362 seconds 
-  Import took 7.407782 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 819.368032 seconds.
-  path: Assets/Maya_Models/BookCase.mb
-  artifactKey: Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maya_Models/BookCase.mb using Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cec4a9b9689a9cb2d1af02237ffdca1') in 0.757355 seconds 
-  Import took 1.516946 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1055.582547 seconds.
-  path: Assets/Maya_Models/BookCase.mb
-  artifactKey: Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maya_Models/BookCase.mb using Guid(e09398e3a9e72c44d93d931473620a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c320cde82de7f62d109708137a8d71af') in 0.950947 seconds 
-  Import took 0.995562 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.948807 seconds.
-  path: Assets/Substance_Exports/Bookcase/BookCase.fbx
-  artifactKey: Guid(d1d1357008763a94b983474f1cae0069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/Bookcase/BookCase.fbx using Guid(d1d1357008763a94b983474f1cae0069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2478e474cce13041999fbc6ce321f1cf') in 0.182589 seconds 
-  Import took 0.193127 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.296094 seconds.
-  path: Assets/Substance_Exports/Bookcase/materials
-  artifactKey: Guid(77d0a62615baee44e94c110d9b651686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Substance_Exports/Bookcase/materials using Guid(77d0a62615baee44e94c110d9b651686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51a26f7b67ec2cf08efc8e018b9ba8d') in 0.011558 seconds 
-  Import took 0.025449 seconds .
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
