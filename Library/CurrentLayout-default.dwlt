@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 609, y: 392}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 115
+  controlID: 34
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 116
+  controlID: 35
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0cf6feff
-      m_LastClickedID: -68084
-      m_ExpandedIDs: 84e1ffff1ca60000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 58faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -461,9 +461,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.44107416, y: 0.40637237, z: -4.2751565}
+    m_Target: {x: 16.612919, y: 1.3704721, z: 1.9724917}
     speed: 2
-    m_Value: {x: -0.4410741, y: 0.40637234, z: -4.2751565}
+    m_Value: {x: 16.612919, y: 1.3704721, z: 1.9724917}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -510,13 +510,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.22456862, y: -0.56406015, z: 0.16340724, w: -0.777774}
+    m_Target: {x: 0.07476229, y: 0.9049282, z: -0.17974004, w: 0.37874985}
     speed: 2
-    m_Value: {x: -0.22531982, y: -0.549199, z: 0.15733173, w: -0.78921366}
+    m_Value: {x: 0.07502273, y: 0.90424955, z: -0.17960595, w: 0.38006076}
   m_Size:
-    m_Target: 0.3842982
+    m_Target: 0.29078484
     speed: 2
-    m_Value: 0.3842982
+    m_Value: 0.59078485
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -886,22 +886,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Substance_Exports/Books/Book13/material
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Substance_Exports/Books/Book13/material
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\GitHubRepos\Altar Diorama\AltarEnvironment
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: eeab0000
-    m_LastClickedID: 44014
-    m_ExpandedIDs: 00000000eeab0000f0ab0000f2ab0000f4ab0000f6ab0000f8ab0000faab0000fcab0000feab000000ac000002ac000004ac000006ac0000
+    scrollPos: {x: 0, y: 298}
+    m_SelectedIDs: 3ea80000
+    m_LastClickedID: 43070
+    m_ExpandedIDs: 00000000da9b0000dc9b0000de9b0000e09b0000e29b0000e49b0000e69b0000e89b0000ea9b0000ec9b0000ee9b0000f09b0000f29b00006e9c0000709c0000729c0000749c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -929,7 +929,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000eeab0000f0ab0000f2ab0000f4ab0000f6ab0000f8ab0000faab0000fcab0000feab000000ac000002ac000004ac000006ac0000
+    m_ExpandedIDs: 00000000da9b0000dc9b0000de9b0000e09b0000e29b0000e49b0000e69b0000e89b0000ea9b0000ec9b0000ee9b0000f09b0000f29b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -956,7 +956,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: e69e00004c6d0100cea00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
