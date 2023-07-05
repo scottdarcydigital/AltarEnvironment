@@ -1,0 +1,51 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl lambert38
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl blinn2
+kd 0.807692 0.807692 0.807692
+illum 1
+
+newmtl CircleBase1
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl lambert32
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl Sand
+kd 0.8143 0.6719 0.3512
+illum 1
+
+newmtl CapFabric_top
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl topCapRing
+kd 1 0.8259 0.4901
+illum 1
+
+newmtl jewlGold
+kd 1 0.6726 0
+illum 1
+
+newmtl lambert1
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl CapsGold1
+kd 1 0.8661 0.6078
+illum 1
+
+newmtl MarkerThinnn
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl MarkerThinnn_Jewl
+kd 0.5 0.5 0.5
+illum 1
+
