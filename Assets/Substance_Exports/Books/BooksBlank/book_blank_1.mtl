@@ -1,0 +1,11 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl BookBlankNew1_Cover
+kd 1 1 1
+illum 1
+
+newmtl lambert8
+kd 1 1 1
+illum 1
+
